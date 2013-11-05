@@ -19,9 +19,9 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("https://www.telosgames.com/teloslogo.png") 0 0 no-repeat;
+    background: url("https://www.telosgames.com/teloslogo-small.png") 0 0 no-repeat;
     display: block;
-    width: 130px;
+    width: 100px;
     height: 40px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
